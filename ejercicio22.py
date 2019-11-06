@@ -16,3 +16,4 @@ def multiplicacion(n):
     return valor_local
 
 print(multiplicacion(10))
+
